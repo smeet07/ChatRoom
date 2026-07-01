@@ -1,3 +1,6 @@
 <div id="messages" hx-swap-oob="beforeend">
-    <p class="text-small">{{ .Text }}</p>
+    <div class="message">
+        <strong>{{ .User }}</strong>
+        <p>{{ .Text }}</p>
+    </div>
 </div>

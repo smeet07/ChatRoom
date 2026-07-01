@@ -1,8 +1,0 @@
-./assertions.go
-./bytes.go
-./common.go
-./convert.go
-./file.go
-./http.go
-./integer.go
-./strings.go
